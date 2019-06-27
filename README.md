@@ -28,4 +28,4 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 ### Code and Data
 
-Code is provided in the `Image Classifier Project.ipynb` notebook file. Python files are also provided that can be called by a command line application: 1) `predict.py` contains code to run prediction on a new image and 2) `train.py` includes codes to train the classifier. Data files are not provided due to data size. A mapping file is provided to map from category label to category name `cat_to_name.json` 
+Code is provided in the `Image_Classifier_Project.ipynb` notebook file. Python files are also provided that can be called by a command line application: 1) `predict.py` contains code to run prediction on a new image and 2) `train.py` includes codes to train the classifier. Data files are not provided due to data size. A mapping file is provided to map from category label to category name `cat_to_name.json` 
